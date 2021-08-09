@@ -1,15 +1,13 @@
-*Covid-Vaccine Availability Alert*
 ***
-Pre-Requisite
-***
-* Government provided open API https://apisetu.gov.in/public/marketplace/api/cowin
+# *Covid-Vaccine Availability Alert*
+## Pre-Requisite
+* Indian Government provided open API *https://apisetu.gov.in/public/marketplace/api/cowin*
 
-* Twilio account for sending notifications
+* Twilio sms for sending notifications
 
 * Basic knowledge of Python 
-***
-Required Library
-***
+
+## Required Library
 * Flask 
 * APScheduler
 * twilio
@@ -17,4 +15,5 @@ Required Library
 * date
 * json
 * time
+***
 
